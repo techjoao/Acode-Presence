@@ -4,7 +4,7 @@
   "name": "Acode Presence",
   "main": "main.js",
   "version": "0.1.0",
-  "readme": "readme.md",
+  "readme": "README.md",
   "changelogs": "changelog.md",
   "repository": "https://github.com/techjoao/Acode-Presence",
   "minVersionCode": 290,
