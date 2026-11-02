@@ -1,0 +1,19 @@
+{
+  "$schema": "https://acode.app/schema/plugin/v0.1.0.json",
+  "id": "com.techjoao.acodepresence",
+  "name": "Acode Presence",
+  "main": "main.js",
+  "version": "0.1.0",
+  "readme": "readme.md",
+  "changelogs": "changelog.md",
+  "repository": "https://github.com/techjoao/Acode-Presence",
+  "minVersionCode": 290,
+  "license": "MIT",
+  "keywords": ["acode", "discord", "rich-presence", "activity", "customization"],
+  "price": 0,
+  "permissions": [],
+  "author": {
+    "name": "João",
+    "github": "techjoao"
+  }
+}
