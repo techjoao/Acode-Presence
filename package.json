@@ -1,0 +1,23 @@
+{
+  "name": "acode-presence",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Customizable activity editor for Acode with planned Discord Rich Presence integration",
+  "main": "dist/main.js",
+  "repository": "https://github.com/techjoao/Acode-Presence.git",
+  "author": "techjoao",
+  "license": "MIT",
+  "dependencies": {
+    "acode-plugin-types": "^1.12.9",
+    "html-tag-js": "^2.4.15"
+  },
+  "devDependencies": {
+    "esbuild": "^0.27.2",
+    "jszip": "^3.10.1"
+  },
+  "scripts": {
+    "dev": "node esbuild.config.mjs --serve",
+    "build": "node esbuild.config.mjs"
+  },
+  "browserslist": "cover 100%,not android < 5"
+}
